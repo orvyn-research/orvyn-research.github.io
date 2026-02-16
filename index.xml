@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orvyn Research</title>
+    <link>https://orvyn-research.github.io/</link>
+    <description>Recent content on Orvyn Research</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2026 16:53:57 +0330</lastBuildDate>
+    <atom:link href="https://orvyn-research.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Orvyn Research Exists</title>
+      <link>https://orvyn-research.github.io/why-orvyn-research-exists/</link>
+      <pubDate>Mon, 16 Feb 2026 16:53:57 +0330</pubDate>
+      <guid>https://orvyn-research.github.io/why-orvyn-research-exists/</guid>
+      <description>Orvyn Research exists to document independent research on systematic trading, algorithmic strategies, and applied quantitative methods.&#xA;The project was initiated to create a structured environment for exploring, testing, and refining research ideas through implementation and documentation. The focus is on methodology, assumptions, and results rather than outcomes. The project also serves as a framework for continuous improvement of research practices over time.&#xA;Content published here may include:&#xA;Research notes and experiment logs Simple strategy prototypes and backtests Observations on data, modeling choices, and limitations Orvyn Research does not provide investment advice or trading signals.</description>
+    </item>
+  </channel>
+</rss>
